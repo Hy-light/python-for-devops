@@ -94,3 +94,5 @@ print(f"Updated HTTPS Enabled: {is_https_enabled}")
 ```
 
 In this example, we use variables to store and manipulate configuration data for a web server. This allows us to easily update and manage the server's configuration in a DevOps context.
+
+# This is an extra line
